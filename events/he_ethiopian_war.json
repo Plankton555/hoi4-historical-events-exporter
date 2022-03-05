@@ -1,0 +1,14 @@
+{
+    "default_picture": "GFX_he_ethiopian_war_001",
+    "events": [
+        {
+            "date": "1936.5.2",
+            "title": "Haile Selassie goes into exile",
+            "desc": "Emperor Haile Selassie was forced to escape into exile on 2 May, and Badoglio's forces arrived in the capital Addis Ababa on 5 May. Italy announced the annexation of the territory of Ethiopia on 7 May and Italian King Victor Emmanuel III was proclaimed emperor. The provinces of Eritrea, Italian Somaliland and Abyssinia (Ethiopia) were united to form the Italian province of East Africa. Fighting between Italian and Ethiopian troops persisted until February 1937. Italian forces continued to suppress rebel activity until 1939.",
+            "picture": "GFX_he_ethiopian_war_001",
+            "options": [
+                {"text": "Oh really?"}
+            ]
+        }
+    ]
+}
